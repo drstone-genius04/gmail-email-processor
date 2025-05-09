@@ -11,9 +11,3 @@ This project is a Python-based utility that connects to Gmail via the Gmail API,
 - 📧 Extract unique email addresses from sender fields and body content
 - ⚙️ Smooth usability within Jupyter Notebooks
 
-## 📦 Dependencies
-
-Install the required Python libraries using:
-
-```bash
-pip install -r requirements.txt
